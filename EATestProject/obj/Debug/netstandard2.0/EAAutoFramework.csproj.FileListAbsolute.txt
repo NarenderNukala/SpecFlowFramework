@@ -1,0 +1,8 @@
+D:\SpecFlowFrameWork\EATestProject\EATestProject\bin\Debug\netstandard2.0\EAAutoFramework.deps.json
+D:\SpecFlowFrameWork\EATestProject\EATestProject\bin\Debug\netstandard2.0\EAAutoFramework.dll
+D:\SpecFlowFrameWork\EATestProject\EATestProject\bin\Debug\netstandard2.0\EAAutoFramework.pdb
+D:\SpecFlowFrameWork\EATestProject\EATestProject\obj\Debug\netstandard2.0\EAAutoFramework.csproj.CoreCompileInputs.cache
+D:\SpecFlowFrameWork\EATestProject\EATestProject\obj\Debug\netstandard2.0\EAAutoFramework.AssemblyInfoInputs.cache
+D:\SpecFlowFrameWork\EATestProject\EATestProject\obj\Debug\netstandard2.0\EAAutoFramework.AssemblyInfo.cs
+D:\SpecFlowFrameWork\EATestProject\EATestProject\obj\Debug\netstandard2.0\EAAutoFramework.dll
+D:\SpecFlowFrameWork\EATestProject\EATestProject\obj\Debug\netstandard2.0\EAAutoFramework.pdb
